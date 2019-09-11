@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Certificate Verifier</string>
+    <string name="no_certificate">No Certificate found for this Student! \n Contact Exams and Records if you think this is an Error</string>
+    <string name="certificate_found">Certificate Found</string>
+    <string name="mat_num_message">Enter Your Matric Number in full \nand click verify button</string>
+    <string name="certificate_message">Having passed all the prescribed examination and  all other requirements of\n Abia State Polytechnic, Aba. \n In the year 2018</string>
+    <string name="cert_award">Has been awarded the certificate of \n HIGHER NATIONAL DIPLOMA \n\n in \n\n COMPUTER SCIENCE</string>
+</resources>
